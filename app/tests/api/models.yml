@@ -1,0 +1,11 @@
+test_country:
+  - Country
+  - id: 15
+    name: "Interplanet Federation"
+    locale: "if_IF"
+
+test_user:
+  - User
+  - id: 75
+    name: "Василий Игнатыч"
+    country_id: 15
